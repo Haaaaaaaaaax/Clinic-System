@@ -141,7 +141,7 @@ This project is open source and available under the [LICENSE](LICENSE) file.
 
 ## Author
 
-[Your Name] - Clinic System Management
+Haaaaaaaaaax - Clinic System Management
 
 ---
 
